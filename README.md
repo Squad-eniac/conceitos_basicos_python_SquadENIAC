@@ -5,8 +5,9 @@ Atividades/Projetos do Bootcamp de Python & Django da Squad ENIAC (curso disponi
 
 ## Descrição
 
-Este repositório contém todas as atividades e projetos desenvolvidos pelo Squad ENIAC durante o Bootcamp de Python & Django oferecido pela WoMakers Code 🦋. 
-O objetivo deste bootcamp é fornecer uma base sólida em Python e Django, capacitando as mulheres a desenvolver aplicações web completas.
+- Este repositório contém todas as atividades e projetos desenvolvidos pelo Squad ENIAC durante o Bootcamp de Python & Django oferecido pela WoMakers Code. 
+- O objetivo deste bootcamp é fornecer uma base sólida em Python e Django, capacitando as mulheres a desenvolver aplicações web completas.
+  
 
 ## SQUAD ENIAC - Integrantes 
 
@@ -15,7 +16,7 @@ O objetivo deste bootcamp é fornecer uma base sólida em Python e Django, capac
 - Caroline Souza Camargo;
 - Fabiana Maria Ingnácio da Silva;
 - Ana Julia Rauber;
-
+- Kassia E. Santo;
 
 ### Redes Sociais - WoMakers Code 🦋 
 
