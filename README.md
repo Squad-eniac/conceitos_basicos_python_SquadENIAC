@@ -11,12 +11,15 @@ Atividades/Projetos do Bootcamp de Python & Django da Squad ENIAC (curso disponi
 
 ## SQUAD ENIAC - Integrantes 
 
-- Marina Cesconeto dos Santos;
-- Rosana de Souza Brito;
-- Caroline Souza Camargo;
-- Fabiana Maria Ingnácio da Silva;
 - Ana Julia Rauber;
-- Kassia E. Santo;
+- Angelica Conceição Salvino da Silva;
+- Caroline Souza Camargo;
+- Fabiana Maria Ignácio da Silva;
+- Kassia do Espirito Santo;
+- Laysa Alexia Lima Cipriano;
+- Marina Cesconeto dos Santos;
+- Natalia Gomes Vitório;
+- Rosana de Souza Brito;
 
 ### Redes Sociais - WoMakers Code 🦋 
 
