@@ -21,6 +21,10 @@ Atividades/Projetos do Bootcamp de Python & Django da Squad ENIAC (curso disponi
 - Natalia Gomes Vitório;
 - Rosana de Souza Brito;
 
+## Divisão das tarefas
+
+- A divisão dos exercícios foi feita por sorteio. Cada menina ficou responsável por 3 ou 4 exercícios, mas uma ajuda a outra.
+
 ### Redes Sociais - WoMakers Code 🦋 
 
 Siga a WoMakers Code nas redes sociais para ficar por dentro das novidades e eventos:
