@@ -15,24 +15,26 @@ def fahrenheitToCelsius(medida):
     resCelsius = (medida - 32) * 5/9
     print(f"A conversão de {medida}°F é igual a {resCelsius}°C")
 
-# Main - menu do usuário | Processamento das demais funções
+    # Main - menu do usuário | Processamento das demais funções
 def main():
 # Valor inputado pelo usuário
-    print("_____ CALCULADORA DE CONVERSÃO DE GRAUS _____")
-    print("Qual operação deseja realizar?")
-    print("1. Converter Celsius para Fahrenheit")
-    print("2. Converter Fahrenheit para Celcius")
-    choice = int(input("Digite o número correspondente à sua escolha: "))
-    
-    if choice == 1:
-        medida = float(input("Informe sua temperatura: "))
-        celsiusToFahrenheit(medida)
-    elif choice == 2:
-        medida = float(input("Informe sua temperatura: "))
-        fahrenheitToCelsius(medida)
-    else:
-        print("Opção inválida. Por favor, escolha entre 1 e 2.")
-
+    try:
+        print("_____ CALCULADORA DE CONVERSÃO DE GRAUS _____")
+        print("Qual operação deseja realizar?")
+        print("1. Converter Celsius para Fahrenheit")
+        print("2. Converter Fahrenheit para Celcius")
+        choice = int(input("Digite o número correspondente à sua escolha: "))
+        
+        if choice == 1:
+            medida = float(input("Informe sua temperatura: "))
+            celsiusToFahrenheit(medida)
+        elif choice == 2:
+            medida = float(input("Informe sua temperatura: "))
+            fahrenheitToCelsius(medida)
+        else:
+            print("Opção inválida. Por favor, escolha entre 1 e 2.")
+    except ValueError:
+        print("Informe um valor numérico, por favor!")
       
 if __name__ == "__main__":
     main()
